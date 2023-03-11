@@ -1,4 +1,4 @@
-<h1>Oi, eu sou o Diogo, seja bem vindo ao meu github!🏳️‍🌈</h1>
+<h1>Oi, seja bem vindo ao meu github!🏳️‍🌈</h1>
   
 <div>
   <a href="https://github.com/diogo-meneses-franca">
